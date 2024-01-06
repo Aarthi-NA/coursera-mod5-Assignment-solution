@@ -8,4 +8,4 @@ This repository contains the solution code for the assignment 2 in the Coursera 
 
 You can view the solutions online by clicking below:
 
-[<u>Click here</u>](https://aarthi-na.github.io/courseera-mod2-Assignment-solution/)
+[<u>Click here</u>](https://aarthi-na.github.io/coursera-mod5-Assignment-solution/)
